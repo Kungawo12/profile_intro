@@ -11,7 +11,8 @@ Passionate full-stack developer with a business administration and supply chain 
 * 🚀  I'm currently working on pickup_match(https://github.com/Kungawo12/soccer_pickup_Project)
 * 🧠  I'm learning Data Structures and Algorithm
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I am good in making friends
+* ⚡  I am good at making friends
+* Joined Metro State University 
 
 ### Skills
 
